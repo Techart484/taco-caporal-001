@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-06-14T01:49:13.524Z",
+  "overallConfidence": 0.6,
+  "integrityScore": 0,
+  "discrepancies": [
+    {
+      "field": "navLinks",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "Menu",
+        "About Us",
+        "Contact",
+        "Order Online"
+      ],
+      "secondary": [
+        "Loading..."
+      ],
+      "note": "navLinks: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "productDescriptions",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "Al Pastor Burrito — Marinated pork with pineapple, rice, beans, and salsa wrapped in a large, warm tortilla.",
+        "Chicken Enchiladas — Corn tortillas filled with seasoned chicken, smothered in rich red sauce and melted cheese."
+      ],
+      "secondary": [],
+      "note": "productDescriptions: weak agreement (0.00) — flagged"
+    }
+  ],
+  "matches": [
+    {
+      "field": "title",
+      "confidence": 1,
+      "matched": true,
+      "primary": "",
+      "secondary": null,
+      "note": "title: exact agreement"
+    },
+    {
+      "field": "description",
+      "confidence": 1,
+      "matched": true,
+      "primary": "",
+      "secondary": null,
+      "note": "description: exact agreement"
+    },
+    {
+      "field": "prices",
+      "confidence": 1,
+      "matched": true,
+      "primary": [],
+      "secondary": [],
+      "note": "prices: exact agreement"
+    }
+  ],
+  "primarySource": "firecrawl.v2",
+  "secondarySource": "lightscraper.fetch"
+}
