@@ -1,0 +1,17 @@
+[
+  {
+    "sectionKey": "Our Menu",
+    "archetype": "asymmetric-feature",
+    "rationale": "services → asymmetric-feature"
+  },
+  {
+    "sectionKey": "About Us",
+    "archetype": "editorial-journal",
+    "rationale": "about → editorial-journal"
+  },
+  {
+    "sectionKey": "Ready to Order?",
+    "archetype": "whitespace-manifesto",
+    "rationale": "cta → whitespace-manifesto"
+  }
+]
